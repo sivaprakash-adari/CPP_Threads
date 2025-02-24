@@ -4,7 +4,7 @@
 //using namespace std;
 
 void test() {
-    std::cout << "Hello from test" << std::endl;
+    std::cout << "Hello from the test" << std::endl;
 }
 void functionA() {
     std::cout << "This is function A" << std::endl;
